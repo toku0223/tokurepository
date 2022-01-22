@@ -39,6 +39,41 @@
     background-color: green;
 }
 
+.box4{
+    width: 100px;
+    height: 66px;
+    background-color: black;
+}
+
+.box5{
+    width: 100px;
+    height: 70px;
+    background-color: yellow;
+}
+
+.box1-2{
+    width: 100px;
+    height: 68px;
+    background-color: blue;
+}
+
+.box2-2{
+    width: 100px;
+    height: 30px;
+    background-color: red;
+}
+
+.box3-2{
+    width: 100px;
+    height: 66px;
+    background-color: green;
+}
+
 .wrapper{
     display: flex;
+}
+
+.wrappercolumn{
+    display: flex;
+    flex-direction: column;
 }
