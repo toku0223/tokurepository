@@ -27,9 +27,33 @@
     background-color: blue;
 }
 
+.box1-2{
+    width: 100px;
+    height: 68px;
+    background-color: blue;
+}
+
+.box1-3{
+    width: 300px;
+    height: 40px;
+    background-color: blue;
+}
+
 .box2{
     width: 100px;
     height: 100px;
+    background-color: red;
+}
+
+.box2-2{
+    width: 100px;
+    height: 30px;
+    background-color: red;
+}
+
+.box2-3{
+    width: 220px;
+    height: 160px;
     background-color: red;
 }
 
@@ -39,9 +63,27 @@
     background-color: green;
 }
 
+.box3-2{
+    width: 100px;
+    height: 66px;
+    background-color: green;
+}
+
+.box3-3{
+    width: 300px;
+    height: 40px;
+    background-color: green;
+}
+
 .box4{
     width: 100px;
     height: 66px;
+    background-color: black;
+}
+
+.box4-1{
+    width: 80px;
+    height: 160px;
     background-color: black;
 }
 
@@ -49,24 +91,6 @@
     width: 100px;
     height: 70px;
     background-color: yellow;
-}
-
-.box1-2{
-    width: 100px;
-    height: 68px;
-    background-color: blue;
-}
-
-.box2-2{
-    width: 100px;
-    height: 30px;
-    background-color: red;
-}
-
-.box3-2{
-    width: 100px;
-    height: 66px;
-    background-color: green;
 }
 
 .wrapper{
